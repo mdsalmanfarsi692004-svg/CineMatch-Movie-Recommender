@@ -20,9 +20,13 @@ CineMatch Pro is a sophisticated content-based recommendation engine modeled aft
 * **High-Quality Rendering:** Integrates TMDB CDN links for flawless poster rendering.
 
 ## ⚙️ Installation & Usage
+
 git clone https://github.com/your-username/CineMatch-Movie-Recommender.git
+
 cd CineMatch-Movie-Recommender
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## 👨‍💻 Author
