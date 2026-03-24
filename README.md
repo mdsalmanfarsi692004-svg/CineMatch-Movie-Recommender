@@ -7,6 +7,20 @@
 ## 🚀 Project Overview
 CineMatch Pro is a sophisticated content-based recommendation engine modeled after premium OTT platforms. By analyzing movie genres and plot descriptions using Natural Language Processing, the engine recommends the most mathematically relevant movies based on a user's search query.
 
+## Live App Link
+
+https://cinematch-movie-recommendation.streamlit.app/
+
+## Screenshots
+
+## Main Dashboard
+<img width="1905" height="783" alt="Screenshot 2026-03-24 183347" src="https://github.com/user-attachments/assets/8da55d24-365f-411c-a835-0b9eedb36542" />
+
+Recommendations
+<img width="1910" height="913" alt="Screenshot 2026-03-24 183526" src="https://github.com/user-attachments/assets/866bd855-13bd-4d8a-9730-320f738f3da6" />
+
+<img width="1909" height="915" alt="Screenshot 2026-03-24 183650" src="https://github.com/user-attachments/assets/cb3b3472-5289-488a-bc00-a7c4c6ef65c3" />
+
 *Developed as part of the AI & ML Internship at Elevate Labs.*
 
 ## 🧠 System Architecture & Methodology
